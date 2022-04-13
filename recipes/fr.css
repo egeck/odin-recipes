@@ -1,0 +1,17 @@
+/*Fried Rice*/
+
+body {
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+.home {
+    font-size: 18px;
+    border-color: #f79350;
+    background-color: white;
+    padding: 8px;
+}
